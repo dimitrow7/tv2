@@ -1,0 +1,2 @@
+RewriteEngine On
+RewriteRule ^dash$ dashboard.php [L]
