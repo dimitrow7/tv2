@@ -1,8 +1,8 @@
 <?php
 // Данни за свързване с базата данни
 define('DB_HOST', 'localhost');
-define('DB_USER', 'resinwoo_slidetvmaster');
-define('DB_PASS', '&KZC?THo~sxU9');
+define('DB_USER', '-----------');
+define('DB_PASS', '-----------');
 define('DB_NAME', 'resinwoo_md_hey');
 
 // Основни настройки
